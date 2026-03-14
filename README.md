@@ -1,6 +1,6 @@
 # COMFORT-PRESS
-Idea-draft for presentation/speech preparations people who are not able to give proper speeches due to any discomfort of any sort
-the idea is to get people to use this machine/tool to aid themselms with visual pacing, audio (vocal inconsistencies), and focus maintenance.
+Idea-draft for presentation/speech preparations people who are not able to give proper speeches due to any discomfort of any sort.
+The idea is to get people to use this machine/tool to aid themselms with visual pacing, audio (vocal inconsistencies), and focus maintenance.
 
 
 Comfort Press is a tool designed to help users practice speeches by comparing their planned notes with what they actually say during practice.
