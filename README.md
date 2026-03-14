@@ -1,9 +1,9 @@
 # COMFORT-PRESS
 Idea-draft for presentation/speech preparations people who are not able to give proper speeches due to any discomfort of any sort.
-The idea is to get people to use this machine/tool to aid themselves with visual pacing, audio (vocal inconsistencies), and focus maintenance.
+The idea is to get people to use this machine/tool to aid themselves with visual pacing, audio (vocal inconsistencies), and focus maintenance. This tool is meant to act as an assistant.
 
 
-Comfort Press (Comfortable Presentation) is a tool designed to help users practice speeches by comparing their planned notes with what they actually say during practice.
+ComfortPress(Comfortable Presentation), is a tool designed to help users practice speeches by comparing their planned notes with what they actually say during practice.
 The system uses OCR to extract text from written notes and speech recognition to transcribe recorded speech, then analyzes differences between the planned outline and the spoken delivery.
 
 ## Minimum Viable Product (MVP)
