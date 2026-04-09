@@ -1,0 +1,77 @@
+.icon-container{
+    width: 75.5px;
+    height:auto;
+    position: center;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin: 100px auto 0 auto;
+    
+}
+.icon-container .slides_ivon img{
+    margin-top: 9%;
+    width:60px;
+    height: auto;
+    display: flex;
+}
+.Header{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    margin-top: 70px;
+    text-align: Center;
+}
+
+.Welp{
+    font-size: 10px;
+    color: rgb(64, 63, 63);
+    margin-top: 20px;
+    text-align: Center;
+    margin-left: 20px;
+}
+.main-div{
+    margin-top: 80px auto;
+    background-color: white;
+    border: 2px dashed gray;
+    border-radius: 20px;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 280px;
+}
+.main-div:hover{
+    border-color: solid rgb(200, 200, 200);
+    cursor: pointer;
+}
+
+.main-div .mini{
+    text-align: center;
+}
+
+.main-div .image_icon img{
+    width:60px;
+    height: auto;
+}
+
+.main-div .fake-btn{
+    margin-top: 10px;
+    padding: 10px 18px;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    text-align: center;
+    color: white;
+
+    cursor: pointer;
+    webkit-user-select: none;
+}
+
+/* click effect */
+.main-div .fake-btn:active {
+    transform: scale(0.97);
+}
